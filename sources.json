@@ -1,0 +1,74 @@
+{
+  "researched_at_utc": "2026-11-13T18:51:54.447822+00:00",
+  "news_announcement": "https://www.tibia.com/news/?id=7987&subtopic=newsarchive",
+  "source_method": "HTTP forum HTML; official CipSoft badge checked with existing forum parser. News announcement verified in browser.",
+  "coverage": [
+    {
+      "title": "News Ticker Messages August 2024",
+      "url": "https://www.tibia.com/forum/?action=thread&threadid=4969878",
+      "pages": 16,
+      "visible_posts": 308,
+      "official_posts": 33
+    },
+    {
+      "title": "News Ticker Messages November 2024",
+      "url": "https://www.tibia.com/forum/?action=thread&threadid=4974011",
+      "pages": 15,
+      "visible_posts": 287,
+      "official_posts": 20
+    }
+  ],
+  "sources": [
+    {
+      "post_id": "39474114",
+      "author": "Liamas",
+      "role": "Community Manager",
+      "published_as_displayed": "08.08.2024 17:14:08",
+      "edited_as_displayed": "No edit shown",
+      "cipsoft_badge_verified": true,
+      "permalink": "https://www.tibia.com/forum/?action=thread&postid=39474114#post39474114",
+      "thread_id": "4969878",
+      "rendered_official_post_sha256": "826eb52d9e7fbc1428272cca147e942ba7233c1ed95c7a26d8c3637feccd368f",
+      "pages": [
+        {
+          "url": "https://www.tibia.com/forum/?action=thread&threadid=4969878&pagenumber=6",
+          "html_sha256": "b8e13b5c37be9026c5bd4a2e0d471ede4dda5367a483bdd8863938280b0a1ace"
+        }
+      ]
+    },
+    {
+      "post_id": "39492602",
+      "author": "Mirade",
+      "role": "Community Manager",
+      "published_as_displayed": "15.11.2024 11:43:01",
+      "edited_as_displayed": "Mirade on 15.11.2024 11:55:12",
+      "cipsoft_badge_verified": true,
+      "permalink": "https://www.tibia.com/forum/?action=thread&postid=39492602#post39492602",
+      "thread_id": "4974011",
+      "rendered_official_post_sha256": "b72842d309d1711e8d0e7c565a44101d39a91342635cc04ed922cb05f3a72000",
+      "pages": [
+        {
+          "url": "https://www.tibia.com/forum/?action=thread&threadid=4974011&pagenumber=3",
+          "html_sha256": "88d11e028593e0ff9402d12de8ee94e35868bc0b6cd1a57f466f32c2d82796db"
+        }
+      ]
+    },
+    {
+      "post_id": "39494480",
+      "author": "Liamas",
+      "role": "Community Manager",
+      "published_as_displayed": "21.11.2024 09:32:22",
+      "edited_as_displayed": "No edit shown",
+      "cipsoft_badge_verified": true,
+      "permalink": "https://www.tibia.com/forum/?action=thread&postid=39494480#post39494480",
+      "thread_id": "4974011",
+      "rendered_official_post_sha256": "04c7df78ee7c11920d62fc2f61659cc594ec7de928b35af72b74293155b23119",
+      "pages": [
+        {
+          "url": "https://www.tibia.com/forum/?action=thread&threadid=4974011&pagenumber=8",
+          "html_sha256": "571ce1432156e0dd5b374712948a628d7a7712ff4623085947ef755a28c891be"
+        }
+      ]
+    }
+  ]
+}
